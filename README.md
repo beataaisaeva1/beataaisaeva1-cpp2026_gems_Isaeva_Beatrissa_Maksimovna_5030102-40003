@@ -62,4 +62,5 @@ C:\SFML\SFML-2.6.2\bin.
 sfml-graphics-2.dll  
 sfml-window-2.dll  
 sfml-system-2.dll
-И вставить их в папку проекта рядом с .exe файлом.
+И вставить их в папку проекта рядом с .exe файлом
+
