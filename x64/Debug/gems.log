@@ -1,0 +1,14 @@
+﻿  gems.cpp
+C:\Users\79818\source\repos\gems\gems\gems.cpp(156,65): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\79818\source\repos\gems\gems\gems.cpp(156,65): warning C4267:         with
+C:\Users\79818\source\repos\gems\gems\gems.cpp(156,65): warning C4267:         [
+C:\Users\79818\source\repos\gems\gems\gems.cpp(156,65): warning C4267:             _Ty=int
+C:\Users\79818\source\repos\gems\gems\gems.cpp(156,65): warning C4267:         ]
+C:\Users\79818\source\repos\gems\gems\gems.cpp(175,68): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\79818\source\repos\gems\gems\gems.cpp(175,68): warning C4267:         with
+C:\Users\79818\source\repos\gems\gems\gems.cpp(175,68): warning C4267:         [
+C:\Users\79818\source\repos\gems\gems\gems.cpp(175,68): warning C4267:             _Ty=int
+C:\Users\79818\source\repos\gems\gems\gems.cpp(175,68): warning C4267:         ]
+C:\Users\79818\source\repos\gems\gems\gems.cpp(222,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\79818\source\repos\gems\gems\gems.cpp(222,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  gems.vcxproj -> C:\Users\79818\source\repos\gems\x64\Debug\gems.exe
